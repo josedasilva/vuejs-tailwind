@@ -5,7 +5,7 @@
                 	<img class="block h-16 sm:h-24 rounded-full mx-auto mb-4 sm:mb-0 sm:mr-4 sm:ml-0" src="https://api.adorable.io/avatars/196/abott@adorable.png" alt="">
                		<div class="text-center sm:text-left sm:flex-grow">
                     	<div class="mb-4">
-                        	<p class="text-xl leading-tight">Jane Doe</p>
+                        	x<p class="text-xl leading-tight">Jane Doe</p>
                            	<p class="text-sm leading-tight text-grey-dark">Software Developer at SpongeBob LLC.</p>
                        	</div>
                         <div class="flex flex-wrap">
